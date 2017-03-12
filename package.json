@@ -1,0 +1,13 @@
+{
+  "name": "ac-merge",
+  "description": "Deep-merge two objects or arrays into a new object or array.",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-merge",
+  "dependencies": {
+    "ac-is-array": "^1.0.0",
+    "is-scalar": "^1.0.0",
+    "ac-clone": "^1.0.0"
+  }
+}
